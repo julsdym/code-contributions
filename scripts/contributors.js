@@ -1,5 +1,4 @@
-kconst contributorFiles = [
-  "AbdullahZulfiqar2005.html", // add your file name here
+const contributorFiles = [
   "roshanjossey.html",
   "gokultp.html",
 ];
